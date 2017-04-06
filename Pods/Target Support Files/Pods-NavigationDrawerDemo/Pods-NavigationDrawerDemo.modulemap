@@ -1,0 +1,6 @@
+framework module Pods_NavigationDrawerDemo {
+  umbrella header "Pods-NavigationDrawerDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

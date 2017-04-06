@@ -4,15 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>NavigationDrawerDemo.xcscheme</key>
+		<key>DrawerController.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-NavigationDrawerDemo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8B92B7A11E93C89A007897F4</key>
+		<key>79D10FF4039A1DF22CF77BBE89FFB670</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E588F4C8D14E40D686C003851629BE48</key>
 		<dict>
 			<key>primary</key>
 			<true/>
