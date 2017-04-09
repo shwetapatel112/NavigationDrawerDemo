@@ -11,6 +11,7 @@
 		8B92B7AB1E93C89A007897F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B92B7A91E93C89A007897F4 /* Main.storyboard */; };
 		8B92B7AD1E93C89A007897F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B92B7AC1E93C89A007897F4 /* Assets.xcassets */; };
 		8B92B7B01E93C89A007897F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B92B7AE1E93C89A007897F4 /* LaunchScreen.storyboard */; };
+		C32D226E1E99E5CD009EC118 /* CentreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32D226D1E99E5CD009EC118 /* CentreTableViewCell.swift */; };
 		C39D74C51E9532820022F28C /* LeftSideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39D74C41E9532820022F28C /* LeftSideViewController.swift */; };
 		C39D74C71E9535AC0022F28C /* CentreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39D74C61E9535AC0022F28C /* CentreViewController.swift */; };
 		CD8BF8F3DD92F4B413D13BE9 /* Pods_NavigationDrawerDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 953CA37933EF721F815975C2 /* Pods_NavigationDrawerDemo.framework */; };
@@ -26,6 +27,7 @@
 		8B92B7AF1E93C89A007897F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B92B7B11E93C89A007897F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		953CA37933EF721F815975C2 /* Pods_NavigationDrawerDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NavigationDrawerDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C32D226D1E99E5CD009EC118 /* CentreTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CentreTableViewCell.swift; sourceTree = "<group>"; };
 		C39D74C41E9532820022F28C /* LeftSideViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LeftSideViewController.swift; sourceTree = "<group>"; };
 		C39D74C61E9535AC0022F28C /* CentreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CentreViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,6 +89,7 @@
 				8B92B7B11E93C89A007897F4 /* Info.plist */,
 				C39D74C41E9532820022F28C /* LeftSideViewController.swift */,
 				C39D74C61E9535AC0022F28C /* CentreViewController.swift */,
+				C32D226D1E99E5CD009EC118 /* CentreTableViewCell.swift */,
 			);
 			path = NavigationDrawerDemo;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C32D226E1E99E5CD009EC118 /* CentreTableViewCell.swift in Sources */,
 				C39D74C51E9532820022F28C /* LeftSideViewController.swift in Sources */,
 				C39D74C71E9535AC0022F28C /* CentreViewController.swift in Sources */,
 				8B92B7A61E93C89A007897F4 /* AppDelegate.swift in Sources */,
